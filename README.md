@@ -59,3 +59,12 @@
 | 台北   | 2G   | 2G   | 50G SSD   | 30M国际| 1T/月 | $17/月| [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=94) |
 | 洛杉矶 | 2G   | 2G   | 50G NVMe  | 30M优化| 不限  | $5/月 | [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=97) |
 | 洛杉矶 | 2G   | 2G   | 50G NVMe  | 50M优化| 1T/月 | $5/月 | [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=103) |
+| 洛杉矶 | 2G   | 2G   | 50G NVMe  | 100M全向| 不限  | $5/月 | [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=109) |
+| 洛杉矶 | 2G   | 2G   | 50G NVMe  | 200M全向| 5T/月 | $5/月 | [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=115) |
+| 洛杉矶 | 2G   | 2G   | 50G NVMe  | 200M国际| 不限  | $5/月 | [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=121) |
+| 洛杉矶 | 2G   | 2G   | 50G NVMe  | 300M国际| 5T/月 | $5/月 | [链接](https://account.lightlayer.net/?cmd=cart&action=add&affid=74&id=127) |
+
+## lightlayer评测
+lightlayer 提供的VPS和独立服务器具有高性能和灵活性，适合需要稳定性和高速连接的用户。其优化的线路和多样的机房选择，为不同需求的用户提供了优质的服务体验。通过实际使用，用户反映其网络稳定，速度快，客服响应迅速。
+
+更多lightlayer用户评价和详细测评：[点击查看](https://account.lightlayer.net/?affid=74)
